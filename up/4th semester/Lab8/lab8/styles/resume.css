@@ -1,0 +1,30 @@
+h1
+{
+	text-align: center;
+	font-size: 27pt;
+	font-family: Courier;
+}
+h2
+{
+	font-size: 22pt;
+}
+p
+{
+	font-size: 15pt;
+	font-family: Comic Sans MS;
+}
+ul
+{
+	font-size: 14pt;
+	font-family: Helvetica;
+}
+ol
+{
+	font-size: 14pt;
+	font-family: Helvetica;
+}
+body
+{
+	background-color: #D2691E;
+	color: #00FF99;
+}

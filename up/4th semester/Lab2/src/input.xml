@@ -1,0 +1,9 @@
+<?meleh.xml version="1.0"  encoding="UTF-8" standalone="yes"?>
+<devices>
+    <fridge manufacturer = "Atlant" powerUsage = "4000" turnedOn = "false" volume = "2000" />
+    <washer manufacturer = "Bosch" powerUsage = "2500" turnedOn = "false" spinSpeed = "500" />
+    <electricStove manufacturer = "LG" powerUsage = "2000" turnedOn = "true" diameter = "50" />
+    <fridge manufacturer = "LG" powerUsage = "5000" turnedOn = "true" volume = "4000" />
+    <fridge manufacturer = "Samsung" powerUsage = "100" turnedOn = "false" volume = "50" />
+    <washer manufacturer = "Daewoo" powerUsage = "500" turnedOn = "false" spinSpeed = "600" />
+</devices>
